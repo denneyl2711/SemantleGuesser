@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SemantleGuesser", "SemantleGuesser\SemantleGuesser.pyproj", "{2D19145D-3BAC-4D01-BE29-0240E149103E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7CA07268-6ACC-407F-991C-B78969E44176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D19145D-3BAC-4D01-BE29-0240E149103E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D19145D-3BAC-4D01-BE29-0240E149103E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F07A7AC-85EA-47E5-9240-2CBFDC419E53}
+	EndGlobalSection
+EndGlobal
